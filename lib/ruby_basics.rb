@@ -12,11 +12,11 @@ def argue(arg)
 end
 
 def greeting(arg1, arg2)
-  
+
 end
 
 def return_a_value
-
+  return
 end
 
 def last_evaluated_value
