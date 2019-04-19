@@ -5,10 +5,10 @@ end
 
 def assign_variable(value = "Bob")
   return value;
-
 end
 
-def argue
+def argue(arg)
+  return arg
 
 end
 
